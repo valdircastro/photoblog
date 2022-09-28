@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    margin: 0 calc(10%/6);
+    padding: 1em 0;
+    border-bottom: 1px solid lightgray;
+    width: 30%;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+main{
+    font-size: 0;
+}
+
+.post-image{
+    width: 30%;
+    margin: calc(10%/6);
+    aspect-ratio: 1/1;
+}
+
+nav p{
+    text-align: center;
+    margin: 0 calc(10%/6);
+    padding: 2em 0;
+    border-top: 1px solid lightgray;
+}
